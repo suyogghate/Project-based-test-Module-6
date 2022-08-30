@@ -1,0 +1,2 @@
+# Project-based-test-Module-6
+This is a registration form made using html, css, javascript. In this form i have added various validation checks for the input fields. If someone tries to enter the wrong input in the form, the user gets the error message to correct the input given. After successful validation checks without any error, the user gets the alert 'your details have been successfully saved'.
